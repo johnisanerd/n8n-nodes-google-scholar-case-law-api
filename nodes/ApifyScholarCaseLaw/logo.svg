@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- badge -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#7C2D12"/>
+  <!-- balance beam -->
+  <line x1="32" y1="16" x2="32" y2="46" stroke="#FED7AA" stroke-width="3" stroke-linecap="round"/>
+  <line x1="18" y1="22" x2="46" y2="22" stroke="#FED7AA" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="16" r="3" fill="#FED7AA"/>
+  <!-- left pan -->
+  <path d="M18 22 L13 32 L23 32 Z" fill="none" stroke="#FED7AA" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- right pan -->
+  <path d="M46 22 L41 32 L51 32 Z" fill="none" stroke="#FED7AA" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- base -->
+  <rect x="24" y="46" width="16" height="4" rx="1.5" fill="#FED7AA"/>
+</svg>
